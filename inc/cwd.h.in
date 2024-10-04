@@ -1,0 +1,1 @@
+#define CWD "${CMAKE_SOURCE_DIR}"
